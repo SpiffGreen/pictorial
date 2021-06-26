@@ -1,0 +1,32 @@
+{
+  "name": "pictorial",
+  "version": "0.0.0",
+  "description": "Pictorial is a simple domain specific language for that compiles to Scalable Vector Graphics(SVG) format. Its simple and expressive.",
+  "main": "Pictorial.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpiffGreen/pictorial.git"
+  },
+  "keywords": [
+    "Pictorial",
+    "compiler",
+    "transpiler",
+    "svg",
+    "programming",
+    "langauge",
+    "design",
+    "construction",
+    "graphics",
+    "picture",
+    "image"
+  ],
+  "author": "Spiff Jekey-Green",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SpiffGreen/pictorial/issues"
+  },
+  "homepage": "https://github.com/SpiffGreen/pictorial#readme"
+}
