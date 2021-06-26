@@ -1,7 +1,7 @@
 {
   "name": "pictorial",
   "version": "0.0.0",
-  "description": "Pictorial is a simple domain specific language for that compiles to Scalable Vector Graphics(SVG) format. Its simple and expressive.",
+  "description": "Pictorial is a simple domain specific language that compiles to Scalable Vector Graphics, SVG format. Its simple and expressive.",
   "main": "Pictorial.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

@@ -1,5 +1,5 @@
 # Pictorial
-Pictorial is a simple domain specific language for that compiles to Scalable Vector Graphics(SVG) format. Its simple and expressive.
+Pictorial is a simple domain specific language that compiles to Scalable Vector Graphics, SVG format. Its simple and expressive.
 
 ## Samples
 ### Program structure
